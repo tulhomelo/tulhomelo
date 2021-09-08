@@ -1,6 +1,7 @@
 - 👋 Olá, eu sou Tulho Melo (@tulhomelo)
-- 👀 Sou trilheiro e voluntário no Rotary.
-- 🌱 Atualmente estudo Análise e Desenvolvimento de Sistemas na UNA Cristiano Machado.
+- 💻 Sou analista de implantação sênior na Rumo Tecnologia.
+- 🏕️ Sou trilheiro no @tremape e voluntário no @rctbhliberdade.
+- 🎓 Atualmente estudo Análise e Desenvolvimento de Sistemas na UNA Cristiano Machado.
 - 📫 Você pode me encontrar no Twitter em @tulho.
 
 <!---
